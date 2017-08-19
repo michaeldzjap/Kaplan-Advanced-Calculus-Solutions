@@ -1,2 +1,2 @@
 # Kaplan-Advanced-Calculus-Solutions
-Solutions to the problems of Kaplan - Advanced Calculus
+Worked out problem sets for Kaplan - Advanced Calculus book. I am not a professional mathematician, so use at your own risk...
